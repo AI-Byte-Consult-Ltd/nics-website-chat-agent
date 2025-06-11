@@ -27,12 +27,12 @@ To integrate this chat agent into your website, simply add the following HTML sn
         webhook: {
             // This is your unique webhook URL for chat communication.
             // Replace with your actual webhook endpoint.
-            url: 'https://aifelix.info/webhook/f406671e-c954-4691-b39a-66c90aa2f103/chat', 
+            url: 'https://your.website/webhook/f406671e-c954-4691-b39a-66c90aa2f103/chat', 
             route: 'general'
         },
         branding: {
             logo: '<your company logo URL>', // Optional: URL to your company logo (e.g., https://yourcompany.com/logo.png)
-            name: 'AIfelix.info', // Your company or brand name
+            name: 'AI Byte Consult Ltd.', // Your company or brand name
             welcomeText: 'Hi 👋, how can we help?', // Initial welcome message shown to users
             responseTimeText: 'We typically respond right away' // Message about response time
         },
