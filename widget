@@ -5,7 +5,7 @@
             route: 'general'
         },
         branding: {
-            logo: '<your company logo URL>', 
+            logo: 'https://hotel.nics.space/images/nics_logo.png', 
             name: 'NICS AI Ecosystem', 
             welcomeText: 'Hi 👋, how can we help?', 
             responseTimeText: 'We typically respond right away' 
