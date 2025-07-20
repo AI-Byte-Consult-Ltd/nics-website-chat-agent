@@ -296,8 +296,8 @@
             welcomeText: '',
             responseTimeText: '',
             poweredBy: {
-                text: 'Powered by Elite Solution',
-                link: 'https://x7.business'
+                text: 'Powered by NICS AI Ecosystem',
+                link: 'https://info@aibyteconsult.com'
             }
         },
         style: {
